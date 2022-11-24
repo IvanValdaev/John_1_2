@@ -299,6 +299,10 @@ ul {
 	.g {
 		text-align: center;
 	}
+	
+	.page-recent{
+		padding-top: 60px;
+	}
 }
 
 /*****************main-page****************/
